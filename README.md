@@ -8,3 +8,5 @@ Demo on a data in Excel, how to pull those data from Excel worksheets into our J
 5. Get access to all cess of row.
 6. Access the data from Excel into Arrays.
 
+You need any excel file to test the data.
+Click [Sample Excel data](https://www.wisdomaxis.com/technology/software/data/for-reports/Data%20Refresh%20Sample%20Data.xlsx) for sample excel data. 
